@@ -1,6 +1,6 @@
 var products = [
     {
-        "photo": "img/dustinFunko.png",
+        "photo": "img/pops/dustinFunko.png",
         "name": "Pop! Dustin Henderson (Battle Damaged)",
         "fandom": "Stranger Things",
         "price": 14.99,
@@ -8,7 +8,7 @@ var products = [
         "quantity": 1
     },
     {
-        "photo": "img/pennywiseFunko.png",
+        "photo": "img/pops/pennywiseFunko.png",
         "name": "Pop! Pennywise the Dancing Clown",
         "fandom": "IT",
         "price": 14.99,
@@ -16,7 +16,7 @@ var products = [
         "quantity": 1
     },
     {
-        "photo": "img/clickerFunko.png",
+        "photo": "img/pops/clickerFunko.png",
         "name": "Pop! Clicker (Infected)",
         "fandom": "The Last Of Us!",
         "price": 14.99,
@@ -24,7 +24,7 @@ var products = [
         "quantity": 1
     },
     {
-        "photo": "img/akaliFunko.png",
+        "photo": "img/pops/akaliFunko.png",
         "name": "Pop! Akali",
         "fandom": "League Of Legends",
         "price": 14.99,
@@ -32,7 +32,7 @@ var products = [
         "quantity": 1
     },
     {
-        "photo": "img/dekuFunko.png",
+        "photo": "img/pops/dekuFunko.png",
         "name": "Pop! Premium Deku",
         "fandom": "My Hero Academia",
         "price": 19.99,
@@ -40,7 +40,7 @@ var products = [
         "quantity": 1
     },
     {
-        "photo": "img/galactusFunko.png",
+        "photo": "img/pops/galactusFunko.png",
         "name": "Pop! Super Galactus (Fantastic Four: First Steps)",
         "fandom": "Marvel",
         "price": 24.99,
@@ -48,7 +48,7 @@ var products = [
         "quantity": 1
     },
     {
-        "photo": "img/shanksFunko.png",
+        "photo": "img/pops/shanksFunko.png",
         "name": "Pop! Plus Shanks",
         "fandom": "One Piece",
         "price": 14.99,
@@ -56,7 +56,7 @@ var products = [
         "quantity": 1
     },
     {
-        "photo": "img/gardevoirFunko.png",
+        "photo": "img/pops/gardevoirFunko.png",
         "name": "Pop! Jumbo Gardevoir",
         "fandom": "Pokémon",
         "price": 39.99,
@@ -64,7 +64,7 @@ var products = [
         "quantity": 1
     },
     {
-        "photo": "img/pochitaFunko.png",
+        "photo": "img/pops/pochitaFunko.png",
         "name": "Pop! Jumbo Pochita",
         "fandom": "Chainsaw Man",
         "price": 39.99,
@@ -72,7 +72,7 @@ var products = [
         "quantity": 1
     },
     {
-        "photo": "img/puppetFunko.png",
+        "photo": "img/pops/puppetFunko.png",
         "name": "Pop! Jumbo Billy the Puppet",
         "fandom": "Saw",
         "price": 39.99,
@@ -80,7 +80,7 @@ var products = [
         "quantity": 1
     },
     {
-        "photo": "img/hagridFunko.png",
+        "photo": "img/pops/hagridFunko.png",
         "name": "Pop! Super Rubeus Hagrid with Letter",
         "fandom": "Harry Potter",
         "price": 39.99,
@@ -88,7 +88,7 @@ var products = [
         "quantity": 1
     },
     {
-        "photo": "img/kitanaFunko.png",
+        "photo": "img/pops/kitanaFunko.png",
         "name": "Pop! Kitana (Mortal Kombat 11)",
         "fandom": "Mortal Kombat",
         "price": 14.99,
